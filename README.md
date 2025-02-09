@@ -20,7 +20,7 @@ The dataset is pre-processed by handling categorical values, encoding them into 
 
 Steps to Run the Project
 1. Clone the Repository:
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/Anshika-2002/car-price-prediction.git
 cd car-price-prediction
 
 2. Install Dependencies:
